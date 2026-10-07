@@ -1,4 +1,4 @@
-[ReadMe.md](https://github.com/user-attachments/files/33164754/ReadMe.md)# 💫 About Me:
+💫 About Me:
 👋 Hi, I'm Zyad.<br><br>🎓 Computer Science Student  <br>💻 Aspiring Software Engineer | Interested in AI & Machine Learning<br><br>Currently learning:<br>- Data Structures & Algorithms<br>- Object-Oriented Programming<br>- Software Engineering<br>- AI & Machine Learning<br><br>Building projects and improving my programming and problem-solving skills.
 
 
